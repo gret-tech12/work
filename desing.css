@@ -1,0 +1,48 @@
+body{ background-image: url(image/abstract-background-website-landing-page-wavy-gradient-template-vector-illustration_599167-898.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0%;
+}
+.heading{
+    display: flex;
+    width: 100%;
+    background-color: indigo;
+ color: white;
+ padding-bottom: 0%;
+ margin-bottom: 0%;
+}
+.head{
+    width: 10%;
+    padding-left: 5%;
+    padding-top: 1%;
+
+
+}
+.head1 {
+ width: 60%;
+}
+.head1 ul{
+    display: flex;
+}
+.head1 ul li{
+    width: 33.3%;
+    
+    font-size: 150%;
+    display: inline;
+}
+.head2{
+    width: 35%;
+}
+
+.head2 ul{
+    display: flex;
+}
+.head2 ul li{
+    width: 100%;
+    font-size: 150%;
+    display: inline;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+}

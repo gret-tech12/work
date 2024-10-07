@@ -1,0 +1,142 @@
+
+body{ background-image: url(image/3.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.heading{
+    display: flex;
+    width: 100%;
+    background-color: indigo;
+ color: white;
+ padding-bottom: 0%;
+ margin-bottom: 0%;
+}
+.head{
+    width: 10%;
+    padding-left: 5%;
+    padding-top: 1%;
+
+
+}
+.head1 {
+ width: 60%;
+}
+.head1 ul{
+    display: flex;
+}
+.head1 ul li{
+    width: 33.3%;
+    
+    font-size: 150%;
+    display: inline;
+}
+.head2{
+    width: 35%;
+}
+
+.head2 ul{
+    display: flex;
+}
+.head2 ul li{
+    width: 100%;
+    font-size: 150%;
+    display: inline;
+}
+.next{
+   
+    margin-top: 0%;
+    padding-top: 0%;
+    padding-bottom: 3%;
+}
+.next1{
+    margin-top: 0%;
+    
+}
+.next1 h2{
+    padding-top: 3%;
+    padding-bottom: 1%;
+    text-align: center;
+    color: white;
+    width: 100%;
+    font-size: 300%
+
+}
+
+
+.next .next2{
+    display: flex;
+    margin-left: 20%;
+    margin-right: 20%;
+    align-items: center;
+    justify-content: space-between;  
+}
+
+.next .next2 .next2a{
+    width: 33.3%;
+    background-color: white;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 3%;
+    
+}
+
+.next .next2 .next2b{
+    width: 33.3%;
+    background-color: rgb(42, 6, 75);
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    color: white;
+}
+.next .next2 .next2a .h3{
+    width: 100%;
+}
+
+.next .next2 .next2c{
+    width: 33.3%;
+    background-color: white;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 3%;
+}
+.next .next2 .next2d{
+    background-color: white;
+    color: aqua;
+}
+.next .next3{
+    justify-content: space-between;  
+     display: flex;
+    margin-left: 20%;
+    margin-right: 20%;
+    align-items: center;
+    padding-top: 03%;
+
+}
+.next .next3a{
+    background-color: white;
+    width: 100%;
+    color: black;
+    padding: 1;
+}
+.next3b{
+    background-color: orangered;
+    margin-left: 1%;
+  text-align: center;
+  padding-left: 3%;
+  padding-right: 3%;
+  color: white;
+}
+.next .next3c h6{
+    color: white;
+    display: flex;
+   margin-right: 15%; 
+   text-align: left;
+  margin-left: 15%;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+
